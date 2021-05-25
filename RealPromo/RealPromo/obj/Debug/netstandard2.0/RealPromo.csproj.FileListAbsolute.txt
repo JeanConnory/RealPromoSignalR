@@ -1,0 +1,14 @@
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\bin\Debug\netstandard2.0\RealPromo.deps.json
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\bin\Debug\netstandard2.0\RealPromo.dll
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\bin\Debug\netstandard2.0\ref\RealPromo.dll
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\bin\Debug\netstandard2.0\RealPromo.pdb
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.csprojAssemblyReference.cache
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.AssemblyInfo.cs
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.dll
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\ref\RealPromo.dll
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo\obj\Debug\netstandard2.0\RealPromo.pdb
