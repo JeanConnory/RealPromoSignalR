@@ -10,7 +10,6 @@ C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\bin\Debug\Real
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\build.props
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\adb.props
-C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\RealPromo.Android.csprojAssemblyReference.cache
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\res.flag
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\lp\44\jl\files.cache
@@ -621,3 +620,4 @@ C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\android\assets\System.Threading.Channels.dll
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\android\assets\System.Threading.Tasks.dll
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\android\assets\System.Threading.Tasks.Extensions.dll
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo\RealPromo.Android\obj\Debug\100\RealPromo.Android.csproj.AssemblyReference.cache

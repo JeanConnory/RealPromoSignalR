@@ -8,7 +8,6 @@ C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\bin\Debug\netcoreapp2.2\R
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\bin\Debug\netcoreapp2.2\RealPromo.ApiWeb.pdb
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\bin\Debug\netcoreapp2.2\RealPromo.ApiWeb.Views.dll
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\bin\Debug\netcoreapp2.2\RealPromo.ApiWeb.Views.pdb
-C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\obj\Debug\netcoreapp2.2\RealPromo.ApiWeb.csprojAssemblyReference.cache
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\obj\Debug\netcoreapp2.2\RealPromo.ApiWeb.AssemblyInfoInputs.cache
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\obj\Debug\netcoreapp2.2\RealPromo.ApiWeb.AssemblyInfo.cs
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\obj\Debug\netcoreapp2.2\RealPromo.ApiWeb.csproj.CoreCompileInputs.cache
@@ -33,3 +32,5 @@ C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\obj\Debug\netcoreapp2.2\R
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\obj\Debug\netcoreapp2.2\RealPromo.ApiWeb.pdb
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\obj\Debug\netcoreapp2.2\RealPromo.ApiWeb.genruntimeconfig.cache
 C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\obj\Debug\netcoreapp2.2\RealPromo.ApiWeb.csproj.CopyComplete
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\obj\Debug\netcoreapp2.2\RealPromo.ApiWeb.csproj.AssemblyReference.cache
+C:\Projetos\Estudos\SignalR\RealPromo\RealPromo.ApiWeb\obj\Debug\netcoreapp2.2\RealPromo.ApiWeb.GeneratedMSBuildEditorConfig.editorconfig
